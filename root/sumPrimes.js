@@ -17,7 +17,7 @@ function sumPrimes (limit) {
 	// For demo purposes:
 	/*
 	var s=0;
-	for(var i=2;i<limit;i++) {
+	for(var i=2; i<=limit; i++) {
 		s+=isPrime(i)?i:0;
 	}
 	return s;
