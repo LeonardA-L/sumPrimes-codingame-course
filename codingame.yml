@@ -1,6 +1,10 @@
-title : Content name
+title : Sum Primes
 plan:
-  - title: Part 1
+  - title: Sum of prime numbers
     statement: markdowns/part1.md
-  - title: Part 2
-    statement: markdowns/part2.md
+projects:
+  mocha:
+   root: root
+   runner:
+    name: codingame/node-npm-runner
+    version: latest

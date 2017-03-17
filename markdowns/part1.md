@@ -1,1 +1,1 @@
-This is part 1
+@[MOCHA MOCHA]({"stubs": ["functions.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testEven.js"})
