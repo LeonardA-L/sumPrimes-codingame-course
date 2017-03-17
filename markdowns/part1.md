@@ -1,1 +1,1 @@
-@[MOCHA MOCHA]({"stubs": ["functions.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testEven.js"})
+@[Write an isPrime function]({"stubs": ["isPrime.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testIsPrime.js"})
