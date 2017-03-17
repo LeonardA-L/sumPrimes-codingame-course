@@ -23,9 +23,6 @@ describe('isPrime Function', function() {
     it('should return false when the parameter is 1', function() {
       assert.equal(isPrime(1), false);
     });
-    it('should return false when the parameter is 2', function() {
-      assert.equal(isPrime(2), false);
-    });
     it('should return false when the parameter is 15', function() {
       assert.equal(isPrime(15), false);
     });
