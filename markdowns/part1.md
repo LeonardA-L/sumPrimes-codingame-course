@@ -1,1 +1,3 @@
 @[Write an isPrime function]({"stubs": ["isPrime.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testIsPrime.js"})
+
+@[Write an isPrime function]({"stubs": ["sumPrimes.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testSumPrimes.js"})
