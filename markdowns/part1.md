@@ -13,6 +13,6 @@ Write an `isPrime` function that takes a number as parameter and returns true if
 
 # Sum all primes
 
-Write a `sumPrimes` function to sum all prime numbers up to the parameter `limit` *included*. Copy you `isPrime` function from the last assignment to make use of it here.
+Write a `sumPrimes` function to sum all prime numbers up to the parameter `limit` *included*. Copy you `isPrime` function from the last assignment to make use of it
 
 @[Write the sumPrimes function]({"stubs": ["sumPrimes.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testSumPrimes.js"})
